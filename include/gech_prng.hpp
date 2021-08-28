@@ -12,7 +12,6 @@
 #define GECH_PRNG_HPP
 
 #include <string>
-#include <vector>
 
 class gechprng {
 public:
